@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a Data and Software Engineer interested in solving environmental problems using technology.
+I'm a Data Scientist/Engineer interested in using technology to solve environmental problems.
 
 - My pronouns are he, him.
 - I work at [Dynamon](https://dynamon.co.uk/) using data analytics to reduce and eliminate carbon from the logistics industry.
