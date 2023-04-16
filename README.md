@@ -1,1 +1,1 @@
-Engineer and scientist. I like building solutions.
+Engineer. I like building.
