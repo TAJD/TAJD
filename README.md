@@ -2,10 +2,7 @@ Full stack developer, MLOps specialist.
 
 See [my website](https://tajd.co.uk/about) for more details.
 
-Developer of:
-
-- [bestefforttools](https://bestefforttools.com/)
-- [isthistextai.com](https://isthistextai.com/)
+I also run [Verdient](https://verdient.co.uk/), a software development consultancy.
 
 [Buy me a coffee](buymeacoffee.com/tajd) if you like.
 
