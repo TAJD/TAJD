@@ -1,4 +1,4 @@
-Full stack developer, MLOps specialist.
+Full stack developer, MLOps specialist. Jack of all trades and master of some.
 
 See [my website](https://tajd.co.uk/about) for more details.
 
