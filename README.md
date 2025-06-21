@@ -1,6 +1,6 @@
 Full stack developer, MLOps specialist. Jack of all trades and master of some.
 
-See [my website](https://tajd.co.uk/about) for more details.
+See [my website](https://tom-dickson.com) for more details.
 
 I also run [Verdient](https://verdient.co.uk/), a software development consultancy.
 
