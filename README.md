@@ -1,4 +1,4 @@
-Full stack developer, MLOps specialist. Jack of all trades and master of some.
+Full stack developer, MLOps specialist.
 
 See [my website](https://tom-dickson.com).
 
