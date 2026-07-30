@@ -5,7 +5,7 @@ See [my website](https://tom-dickson.com) for various posts and tools on applied
 There are a lot of developer tools, but these ones are mine. 
 
 - [Projektor](https://tajd.github.io/projektor/), Jira for agents. Easy, free and secure to host on Cloudflare. Extending to cover all aspects of managing the agentic software delivery lifecycle for small to medium projects.
-- [Cofferdam](https://tajd.github.io/cofferdam/), Customisable compile time architecture tool, mainly for Typescript projects. Give your agents the right context from across the repo without them having to rediscover it every time.
+- [Cofferdam](https://tajd.github.io/cofferdam/), Customisable compile time architecture enforcement tool, mainly for Typescript projects. Give your agents the right context from across the repo without them having to rediscover it every time. Enforce principled approaches agents can follow when writing code.
 
 # Packages
 
